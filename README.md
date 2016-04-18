@@ -241,6 +241,7 @@ You should also mark up your fields using the [Autofill spec](https://html.spec.
 
 Set `autocomplete` to `cc-number` for credit card numbers and `cc-exp` for credit card expiry.
 
+
 ## Mobile recommendations
 
 We recommend you to use `<input type="tel">` which will cause the numeric keyboard to be displayed on mobile devices:
@@ -248,3 +249,4 @@ We recommend you to use `<input type="tel">` which will cause the numeric keyboa
 ``` html
 <input type="tel" class="cc-number">
 ```
+
